@@ -1,0 +1,33 @@
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe.config
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.pdb
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.AssemblyReference.cache
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.SuggestedBindingRedirects.cache
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Form_Lottery.resources
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Properties.Resources.resources
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.GenerateResource.cache
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.CoreCompileInputs.cache
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.exe
+D:\資展全端班\C#\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.pdb
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe.config
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.pdb
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Form_Lottery.resources
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Properties.Resources.resources
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.exe
+C:\Users\iSpan\Desktop\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.pdb
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe.config
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.exe
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\bin\Debug\Homework 1-威力彩.pdb
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.AssemblyReference.cache
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Form_Lottery.resources
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework_1_威力彩.Properties.Resources.resources
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.GenerateResource.cache
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.exe
+C:\Users\iSpan\source\Homework 1-威力彩\Homework 1-威力彩\obj\Debug\Homework 1-威力彩.pdb
